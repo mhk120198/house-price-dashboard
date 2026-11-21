@@ -15,4 +15,4 @@ house-price-dashboard/
 |-- app/         # Streamlit web and PowerBI dashboard
 
 ## 📊 Power BI Dashboard
-![Power BI Dashboard](screenshots/dashboard.png)
+![Power BI Dashboard](screenshots/Power BI dashboard.png)
